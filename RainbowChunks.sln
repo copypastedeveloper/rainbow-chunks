@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RainbowChunks", "RainbowChunks.csproj", "{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Debug|iPhone = Debug|iPhone
+		Release|iPhone = Release|iPhone
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		AppStore|iPhone = AppStore|iPhone
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Debug|iPhone.Build.0 = Debug|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Release|iPhone.ActiveCfg = Release|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Release|iPhone.Build.0 = Release|iPhone
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{D65B1A18-4ED4-412A-8859-2DE6FDFEFEFA}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = RainbowChunks.csproj
+	EndGlobalSection
+EndGlobal
